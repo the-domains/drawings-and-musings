@@ -1,0 +1,28 @@
+name: 'drawings and musings '
+favicon: null
+layout_spectrum: 0.06842416152358055
+typography_spectrum: 0.7412397447042167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3271369035355747
+  lightness: 0.41513072862289846
+  saturation: 0.8950020670890808
+  rhythmicContrast: 0.766125921625644
+purpose: []
